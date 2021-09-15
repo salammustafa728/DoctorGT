@@ -1,0 +1,11 @@
+h1,p,h3{
+    text-align: center;
+}
+
+.chartStyle{
+    background-color: white;
+    border: 1px solid black;
+}
+.statusTitle{
+    color: rgb(116, 184, 48);
+}
